@@ -120,5 +120,5 @@ DEFINE ROUTE TraceabilityFree WITH TYPE POSTGRESQL
 
 ## Frontend Working in LOT Notebook
 
-![alt text](./img/visu.gif)
+![alt text](./img/trace.gif)
 
