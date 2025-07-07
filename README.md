@@ -17,7 +17,7 @@ Real-time manufacturing traceability using MQTT and SQL with a modular, low-code
 
 1. Install [LoT Notebooks extension](https://marketplace.visualstudio.com/items?itemName=Coreflux.vscode-lot-notebooks) in VS Code
 2. Open the TRACEABILITY_SYSTEM.lotnb
-3. 
+3. Go to the bash segment and run it.
 ``` bash
 # Start all services
 docker-compose -f docker-compose-traceability.yml up -d
@@ -25,14 +25,18 @@ docker-compose -f docker-compose-traceability.yml up -d
 # Check service status
 docker-compose -f docker-compose-traceability.yml ps
 ```
-![alt text](./img/connect&download.gif)
-
-
 4. Connect to your MQTT broker:
    - **Host**: `localhist:1883`
    - **Username**: `root`
    - **Password**: `coreflux`
    - **TLS**: `No`
+
+5. Upload the LOT Route and go to the frontend.
+
+
+![alt text](./img/connect&download.gif)
+
+
 
 ### Access Services
 
