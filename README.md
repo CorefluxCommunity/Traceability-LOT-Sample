@@ -1,4 +1,4 @@
-# 📘 README (Improved)
+# 📘 README
 
 ## 🏭 Traceability System with Coreflux + PostgreSQL
 
