@@ -56,7 +56,7 @@ Example:
 coreflux/factory01/production/traceability/part/create
 ```
 
-## 📄 LOT Route (Free Edition)
+## 📄 LOT Route 
 
 
 ---
@@ -118,5 +118,7 @@ DEFINE ROUTE TraceabilityFree WITH TYPE POSTGRESQL
 
 ---
 
+## Frontend Working in LOT Notebook
 
+![alt text](./img/visu.gif)
 
